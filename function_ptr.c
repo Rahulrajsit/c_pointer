@@ -6,7 +6,7 @@ int main() {
 	fun_ptr = fun;
 	int result = fun(10, 30);
 
-	printf("Result is: %d", result);
+	printf("Result is: %d\n", result);
 	return 0;
 }
 
